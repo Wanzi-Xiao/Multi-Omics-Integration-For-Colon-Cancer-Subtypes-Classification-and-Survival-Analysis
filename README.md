@@ -1,1 +1,2 @@
-# Multi-omics-integration-for-colon-cancer-subtypes-classification-and-survival-analysis
+# Multi Omics Integration For Colon Cancer Subtypes Classification and Survival Analysis
+# CMU Computational Medicine final group project
